@@ -9,6 +9,7 @@
 </p>
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
+#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. 
 - 💻 I’m currently working on **Computer Vision & Flutter**
 
 - 📖 I’m currently learning **Machine Learning & App Development**
@@ -25,6 +26,14 @@
 
 - 📫 You can find me at:- [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) or [Email: vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com) or <a href="https://twitter.com/vaibhavhariram2">Twitter</a>  or [whatsApp](wa.me/+917790991077)
 
-- 😄 Pronouns: **Coder**, **developer**, **Tech Blogger** and **Kind Hearted**
+<p>
+  <img width="250" align='left' src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/hacktoberfest.png">
+</p>
+ 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  
+
+ ---
 
 #### Happy coding ❤️ .
