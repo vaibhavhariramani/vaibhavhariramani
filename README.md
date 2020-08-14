@@ -1,4 +1,4 @@
-# [![vaibhav hariramani header](./icon/gh-bannner-light.png=50x)](https://vaibhavhariaramani.github.io/)
+# [![vaibhav hariramani header](./icon/gh-bannner-light.png)](https://vaibhavhariaramani.github.io/)
 <p align='center'>
 <a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vaibhavhariram2"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
