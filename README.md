@@ -35,5 +35,16 @@
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  
 
  ---
+ <p>
+  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
+
+### GEEKY TRAVELLER
+
+I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [Geeky-Traveller](https://sites.google.com/view/geeky-traveller/home).  If you found value in something I have created, please feel free to send ♥ .
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **Image and web** using **python** and **flutter**. 
+ 
+ ---
 
 #   Happy coding ❤️ .
