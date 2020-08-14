@@ -11,7 +11,7 @@
 - [My Blog Website](https://sites.google.com/view/geeky-traveller/home)
 
 
-- 📫 You can find me at:- [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) or [Email: vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com) or <a href="https://twitter.com/vaibhavhariram2">Twitter</a>  or [whatsaApp](wa.me/+917790991077)
+- 📫 You can find me at:- [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) or [Email: vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com) or <a href="https://twitter.com/vaibhavhariram2">Twitter</a>  or [whatsApp](wa.me/+917790991077)
 
 - 😄 Pronouns: **Coder**, **developer**, **Tech Blogger** and **Kind Hearted**
 
