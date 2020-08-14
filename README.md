@@ -4,7 +4,7 @@
 - 📖 I’m currently learning **Machine Learning & App Development**
 
 
-- Download [**THE VAIBHAV HARIRAMANI APP**](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) which consist of Tutorials,Projects,Blogs and Vlogs of our [Site](https://sites.google.com/view/geeky-traveller/home)
+### Download [**THE VAIBHAV HARIRAMANI APP**](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) which consist of Tutorials,Projects,Blogs and Vlogs of our [Site](https://sites.google.com/view/geeky-traveller/home)
 
 
 - 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, App developement & Image Processing**
@@ -17,4 +17,4 @@
 
 - 😄 Pronouns: **Coder**, **developer**, **Tech Blogger** and **Kind Hearted**
 
-Happy coding ❤️ .
+#### Happy coding ❤️ .
