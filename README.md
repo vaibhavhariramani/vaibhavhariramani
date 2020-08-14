@@ -1,3 +1,13 @@
+# [![vaibhav hariramani header](https://raw.githubusercontent.com/vaibhavhariaramani/vaibhavhariaramani/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+<p align='center'>
+<a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/vaibhavhariram2"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vaibhav.hariramani/?hl=en"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="wa.me/+917790991077"><img height="30" src="https://raw.githubusercontent.com/vaibhavhariaramani/vaibhavhariaramani/main/icon/whatsapp.png"></a>&nbsp;&nbsp;
+<a href="mailto:vaibhav.hariramani01@gmail.com"><img height="30" src="https://raw.githubusercontent.com/vaibhavhariaramani/vaibhavhariaramani/main/icon/email.png"></a>&nbsp;&nbsp;
+</p>
+
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
 - 💻 I’m currently working on **Computer Vision & Flutter**
 
