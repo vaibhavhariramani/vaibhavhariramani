@@ -9,11 +9,11 @@
 </p>
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
-#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. 
+#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. <img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
 - 💻 I’m currently working on **Computer Vision & Flutter**
 
 - 📖 I’m currently learning **Machine Learning & App Development**
-<img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
+
 
 ### Download [**THE VAIBHAV HARIRAMANI APP**](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) which consist of Tutorials,Projects,Blogs and Vlogs of our [Site](https://sites.google.com/view/geeky-traveller/home)
 
