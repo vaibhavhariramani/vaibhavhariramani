@@ -9,7 +9,7 @@
 </p>
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
-#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. <img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
+#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
 - 💻 I’m currently working on **Computer Vision & Flutter**
 
 - 📖 I’m currently learning **Machine Learning & App Development**
