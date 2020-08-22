@@ -8,8 +8,8 @@
 <a href="mailto:vaibhav.hariramani01@gmail.com"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/email.png"></a>&nbsp;&nbsp;
 </p>
 
-## Hi There 👋, I'm **Vaibhav Hariramani!**. 
-#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. <img align='right' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
+## Hi There 👋, I'm **Vaibhav Hariramani!**. <img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="150">
+#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. 
 - 💻 I’m currently working on **Computer Vision & Flutter**
 
 - 📖 I’m currently learning **Machine Learning & App Development**
