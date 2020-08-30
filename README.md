@@ -10,11 +10,12 @@
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
 #### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. 
+
+<img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="180">
+
 - 💻 I’m currently working on **Computer Vision & Flutter**
 
 - 📖 I’m currently learning **Machine Learning & App Development**
-<img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="180">
-
 
 - 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, App developement & Image Processing**
 
@@ -27,7 +28,7 @@
 
 ### Download [**THE VAIBHAV HARIRAMANI APP**](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) which consist of Tutorials,Projects,Blogs and Vlogs of our [Site](https://sites.google.com/view/geeky-traveller/home)
 
-# get Notification of our latest blogs on The-Vaibhav-Hariramani-App 
+# Get Notification of our latest blogs on The-Vaibhav-Hariramani-App 
 
 [The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
 
