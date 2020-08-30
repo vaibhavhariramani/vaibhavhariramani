@@ -16,9 +16,6 @@
 <img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="180">
 
 
-### Download [**THE VAIBHAV HARIRAMANI APP**](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) which consist of Tutorials,Projects,Blogs and Vlogs of our [Site](https://sites.google.com/view/geeky-traveller/home)
-
-
 - 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, App developement & Image Processing**
 
 - 🤔 I’m looking for help with my **Development & Programming** skills.
@@ -35,8 +32,7 @@
 [The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk)
 
 <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/splash.png"> <img width="250" align='left' src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png">
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <br> <br> <br> <br>
 <br> <br> <br> <br>
 <br> <br> <br> <br> 
