@@ -32,10 +32,6 @@
 
 <img width="230" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png"> <img width="230"  src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png"> <img width="230" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/Notification.png"> <img width="230" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/shimla.png">
 
-<br> <br> <br> <br>
-<br> <br> <br> <br>
-<br> <br> <br> <br> 
-<br> <br> <br> <br> 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p>
