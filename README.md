@@ -55,3 +55,10 @@ I write about things I am familiar with, things that trip up folks that I mentor
  ---
 
 #   Happy coding ❤️ .
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavhariaramani&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavhariaramani&show_icons=true&theme=radical&line_height=21" alt="Vaibhav's github stats"/>
+</p>
+<br>
