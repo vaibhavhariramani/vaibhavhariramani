@@ -27,7 +27,7 @@
 
 ### Skills and Proficiencies
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZK751WX/b6090f30490291-56259dfd3bcd8.gif" align="right" alt="b6090f30490291-56259dfd3bcd8" height="50%" width ="50%" border="0"></a>
+<a href="https://vaibhavhariaramani.github.io/"><img src="https://i.ibb.co/ZK751WX/b6090f30490291-56259dfd3bcd8.gif" align="right" alt="b6090f30490291-56259dfd3bcd8" height="50%" width ="50%" border="0"></a>
 #### Programming Lanuages
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
@@ -134,8 +134,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavhariaramani&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-  ### GitHub Stats (Public Contributions 😄)<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavhariaramani&show_icons=true&theme=radical&line_height=21" alt="Vaibhav's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavhariaramani&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavhariaramani&show_icons=true&theme=radical&line_height=21" alt="Vaibhav's github stats"/>
 </p>
 <br>
 
@@ -144,5 +143,4 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nivitus-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivitus-fernandez-999a6815b/)](https://www.linkedin.com/in/nivitus-fernandez-999a6815b/) [![Instagram Badge](https://img.shields.io/badge/-Nivitus-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/nivitus_fernandez/?hl=en)](https://www.instagram.com/nivitus_fernandez/?hl=en) [![Twitter Badge](https://img.shields.io/badge/-Nivitus-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NivitusFdz)](https://twitter.com/NivitusFdz) [![GitHub Badge](https://img.shields.io/badge/-@Nivitus-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Nivitus)](https://github.com/Nivitus) [![Gmail Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:nivitus@gmail.com)](mailto:nivitus@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=medium&logoColor=white&link=https://medium.com/@Nivitus.)](https://medium.com/@Nivitus.) [![Facebook Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004639637591)](https://www.facebook.com/profile.php?id=100004639637591)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Nivitus-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-hariramani-087488186/)](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) [![Instagram Badge](https://img.shields.io/badge/-Nivitus-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/vaibhav.hariramani/?hl=en)](https://www.instagram.com/vaibhav.hariramani/?hl=en) [![Twitter Badge](https://img.shields.io/badge/-Nivitus-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vaibhavhariram2)](https://twitter.com/vaibhavhariram2) [![GitHub Badge](https://img.shields.io/badge/-@Nivitus-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vaibhavhariaramani)](https://github.com/vaibhavhariaramani) [![Gmail Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:vaibhav.hariramani01@gmail.com)](mailto:vaibhav.hariramani01@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=medium&logoColor=white&link=https://medium.com/geeky-bawa)](https://medium.com/geeky-bawa) 
