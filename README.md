@@ -62,15 +62,9 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 
-### GitHub Stats (Public Contributions 😄)
 
-<p align="left">
-<a href="https://github.com/Nivitus"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nivitus&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Nivitus GitHub Stats"></a>
-</p> 
 
-### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nivitus-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivitus-fernandez-999a6815b/)](https://www.linkedin.com/in/nivitus-fernandez-999a6815b/) [![Instagram Badge](https://img.shields.io/badge/-Nivitus-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/nivitus_fernandez/?hl=en)](https://www.instagram.com/nivitus_fernandez/?hl=en) [![Twitter Badge](https://img.shields.io/badge/-Nivitus-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NivitusFdz)](https://twitter.com/NivitusFdz) [![GitHub Badge](https://img.shields.io/badge/-@Nivitus-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Nivitus)](https://github.com/Nivitus) [![Gmail Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:nivitus@gmail.com)](mailto:nivitus@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=medium&logoColor=white&link=https://medium.com/@Nivitus.)](https://medium.com/@Nivitus.) [![Facebook Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004639637591)](https://www.facebook.com/profile.php?id=100004639637591)
 
 
 
@@ -126,6 +120,23 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavhariaramani&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavhariaramani&show_icons=true&theme=radical&line_height=21" alt="Vaibhav's github stats"/>
+  ### GitHub Stats (Public Contributions 😄)<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavhariaramani&show_icons=true&theme=radical&line_height=21" alt="Vaibhav's github stats"/>
 </p>
 <br>
+
+---
+
+
+### Follow me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nivitus-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivitus-fernandez-999a6815b/)](https://www.linkedin.com/in/nivitus-fernandez-999a6815b/) [![Instagram Badge](https://img.shields.io/badge/-Nivitus-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/nivitus_fernandez/?hl=en)](https://www.instagram.com/nivitus_fernandez/?hl=en) [![Twitter Badge](https://img.shields.io/badge/-Nivitus-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NivitusFdz)](https://twitter.com/NivitusFdz) [![GitHub Badge](https://img.shields.io/badge/-@Nivitus-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Nivitus)](https://github.com/Nivitus) [![Gmail Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:nivitus@gmail.com)](mailto:nivitus@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=medium&logoColor=white&link=https://medium.com/@Nivitus.)](https://medium.com/@Nivitus.) [![Facebook Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004639637591)](https://www.facebook.com/profile.php?id=100004639637591)
+
+### Top repositories
+
+<p align="center">
+  
+<a href="https://github.com/Nivitus/Machine-Learning-Projects">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavhariaramani&repo=Machine-Learning-Projects-and-Tutorials&title_color=#808080&icon_color=#808080&text_color=#808080&bg_color=#808080%22%20/%3E" />
+</a>
+
+</p> 
