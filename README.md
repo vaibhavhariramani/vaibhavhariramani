@@ -81,6 +81,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 <p>
   <img width="250" align='left' src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/hacktoberfest.png">
   <img width="200" align='left' src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/badge1.png">
@@ -97,7 +98,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 [The Vaibhav Hariramani App (Latest Version) ](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) 
  
-# [<img src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/gh-bannner-light.png">](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) 
 
 <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png"> <img width="200"  src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png">  <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/shimla.png"> <img width="200" src="https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/Cv.png">
 
