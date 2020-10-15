@@ -35,6 +35,7 @@
 
 <p>
   <img width="250" align='left' src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/hacktoberfest.png">
+  <img width="250" align='left' src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/badge1.png">
 </p>
  
 ### Boy Scout Rule
