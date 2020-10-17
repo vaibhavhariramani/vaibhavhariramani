@@ -27,7 +27,7 @@
 
 ### Skills and Proficiencies
 
-<a href="https://vaibhavhariaramani.github.io/"><img src="https://i.ibb.co/ZK751WX/b6090f30490291-56259dfd3bcd8.gif" align="right" alt="b6090f30490291-56259dfd3bcd8" height="30%" width ="40%" border="0"></a>
+<a href="https://vaibhavhariaramani.github.io/"><img src="https://i.ibb.co/ZK751WX/b6090f30490291-56259dfd3bcd8.gif" align="right" alt="b6090f30490291-56259dfd3bcd8" height="30%" width ="45%" border="0"></a>
 #### Programming Lanuages
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
@@ -53,7 +53,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="sql"></code>
 
-<a href="https://medium.com/geeky-bawa"><img src="https://i.ibb.co/0K7LfWW/vt.gif" alt="vt" align="right" height="40%" width ="50%" border="0"></a>
+<a href="https://medium.com/geeky-bawa"><img src="https://i.ibb.co/0K7LfWW/vt.gif" alt="vt" align="right" height="30%" width ="45%" border="0"></a>
 
 #### Integrated Development Environments
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
