@@ -96,10 +96,7 @@
 <br>
 
 ---
-
-
-
- ---
+---
  
 ## Download [**THE VAIBHAV HARIRAMANI APP**](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) which consist of Tutorials,Projects,Blogs and Vlogs of our [Site](https://sites.google.com/view/geeky-traveller/home) . Get Notification of our latest blogs.
 
