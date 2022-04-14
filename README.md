@@ -78,6 +78,16 @@
 
 <p align="left">
   
+ 
+
+<div style="text-align:center" >
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavhariaramani&theme=gruvbox&langs_count=5&hide=html,css,scss,TSQL,VBA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavhariaramani&theme=gruvbox&langs_count=5&hide=html,css,scss,TSQL,VBA" width="194" alt="Top langs"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=vaibhavhariaramani&show_icons=true&count_private=true&line_height=40&theme=gruvbox"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavhariaramani&show_icons=true&count_private=true&line_height=40&theme=gruvbox" width="320" alt="TienDuy Github stats"/></a>
+<!-- <a href="https://app.daily.dev/tienduy"><img src="https://github.com/tienduy-nguyen/tienduy-nguyen/blob/master/devcard.svg" width="136" alt="Tien Duy's Dev Card"/></a>
+<a href="https://tienduy-nguyen.wrapped.run/"><img src="https://github.com/tienduy-nguyen/tienduy-nguyen/blob/master/images/wrapped.png" alt="Tien Duy's wrapped"/></a> -->
+</div>
+
+ 
   
 ### Follow me
   
