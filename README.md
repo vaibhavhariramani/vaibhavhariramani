@@ -9,15 +9,15 @@
 </p>
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
-#### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. 
+#### I create blog posts and open source projects mainly about Machine Learning, Cloud Computing and App Development. 
 
 <img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="180">
 
-- 💻 I’m currently working on **Computer Vision & Flutter**
+- 💻 I’m currently working on **Cloud Computing & Machine Learning**
 
 - 📖 I’m currently learning **Machine Learning & App Development**
 
-- 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, App developement & Image Processing**
+- 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, App developement & Cloud Computing**
 
 - 🤔 I’m looking for help with my **Development & Programming** skills.
 - [My PortFolio Website](https://vaibhavhariramani.github.io/) & [My Blog Website](https://sites.google.com/view/geeky-traveller/home)
