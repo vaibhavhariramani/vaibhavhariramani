@@ -1,6 +1,6 @@
 # [<img src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/gh-bannner-light.png">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
 <p align='center'>
-<a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img height="30" src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vaibhav-hariramani/"><img height="30" src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vaibhavhariram2"><img height="30" src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vaibhav.hariramani/?hl=en"><img height="30" src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/vaibhavJii"><img height="30" src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/by-me-a-coffee.png"></a>
