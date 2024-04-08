@@ -1,4 +1,4 @@
-# [<img src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/gh-bannner-light.png">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
+# [<img src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/1688638823557.jpg">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
 <p align='center'>
 <a href="https://www.linkedin.com/in/vaibhav-hariramani/"><img height="30" src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vaibhavhariram2"><img height="30" src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
