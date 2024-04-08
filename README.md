@@ -9,6 +9,7 @@
 </p>
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
+#### Experienced Cloud engineer with expertise in deploying and managing complex software systems on AWS, Azure, and Google Cloud infrastructure services with an emphasis on automation, scalability, and reliability.
 #### I create blog posts and open source projects mainly about Machine Learning, Cloud Computing and App Development. 
 
 <img align='left' src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="180">
@@ -20,10 +21,10 @@
 - 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, App developement & Cloud Computing**
 
 - 🤔 I’m looking for help with my **Development & Programming** skills.
-- [My PortFolio Website](https://vaibhavhariramani.github.io/) & [My Blog Website](https://sites.google.com/view/geeky-traveller/home)
+- [My PortFolio Website](https://vaibhavhariramani.github.io/) & [My Blog Website](https://vaibhavhariramani.github.io/blogs/)
 
 
-- 📫 You can find me at:- [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariramani) or [Email: vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com) or <a href="https://twitter.com/vaibhavhariram2">Twitter</a>  or [whatsApp](wa.me/+917790991077)
+- 📫 You can find me at:- [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani/) or [Github](https://github.com/vaibhavhariramani) or [Email: vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com) or <a href="https://twitter.com/vaibhavhariram2">Twitter</a>  or [whatsApp](wa.me/+917790991077)
 
 ### Skills and Proficiencies
 
