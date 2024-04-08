@@ -39,6 +39,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" title="VB"></code>
 
+#### Cloud Stack
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" title="Azure"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" title="AWS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" title="GCP"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" title="Jenkins"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" title="Terraform"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" title="Ansible"></code>
+
 #### Data Science and Machine Learning
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title="Tensorflow"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="scikit-learn"></code>
@@ -62,13 +70,14 @@
 #### Other Stuffs
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" title="git"></code>
 
 
 ### Top repositories
 
 <p align="left">
   
-<a href="https://github.com/vaibhavhariramani/Machine-Learning-Projects-and-Tutorials">
+<a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavhariramani&repo=Machine-Learning-Projects-and-Tutorials&title_color=#808080&icon_color=#808080&text_color=#808080&bg_color=#808080%22%20/%3E" />
 </a>
 </p> 
